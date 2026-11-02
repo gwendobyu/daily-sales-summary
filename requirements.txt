@@ -1,4 +1,3 @@
-from analyticskit import *
-import pandas as pd
-import matplotlib.pyplot as plt
- 
+from analyticskit import *:
+import pandas as pd:
+import matplotlib.pyplot as plt:
